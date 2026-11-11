@@ -19,7 +19,7 @@ Este repositorio contiene el desarrollo de la cuarta práctica de Visión por Co
   - Estructuración y validación de un dataset personalizado compuesto por imágenes de vehículos con sus respectivas etiquetas formateadas para YOLO.
   - Configuración y entrenamiento local en entornos de Anaconda (`VC_P4`), gestionando la concurrencia y variables de entorno de OpenMP (`KMP_DUPLICATE_LIB_OK`).
 - **Resultado:**
-  ![Detección de Matrículas con YOLO](deteccion_yolo.png)
+  Está en el video Demo_YOLO.mp4
 
 ---
 
@@ -37,7 +37,7 @@ Este repositorio contiene el desarrollo de la cuarta práctica de Visión por Co
   - Integración del pipeline completo: Detección de la matrícula mediante YOLO y envío del recorte al motor de OCR correspondiente.
   - Sincronización del almacenamiento de archivos pesados y secuencias de vídeo mediante **Git LFS** (*Large File Storage*) en el repositorio.
 - **Resultado:**
-  ![Está en el archivo llamado Comparacion.csv]
+  Está en el archivo llamado Comparacion.csv
 
 ---
 
